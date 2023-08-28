@@ -94,7 +94,13 @@ We use Toolkit [[Link](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)] to o
 
 ## Bibtex
 ```
-   Coming soon...
+   @inproceedings{PICR-Net,
+     title={Point-aware Interaction and {CNN}-induced Refinement Network for {RGB-D} salient object detection},
+     author={Cong, Runmin and Liu, Hongyu and Zhang, Chen and Zhang, Wei and Zheng, Feng and Song, Ran and Kwong, Sam },
+     journal={ACM International Conference on Multimedia (ACM MM) },
+     year={2023},
+    }
+  
 ```
 ## Contact Us
 If you have any questions, please contact Runmin Cong at [rmcong@sdu.edu.cn](mailto:rmcong@sdu.edu.cn) or Hongyu Liu at [liu.hongyu@bjtu.edu.cn](mailto:liu.hongyu@bjtu.edu.cn).
